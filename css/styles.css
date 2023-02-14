@@ -82,7 +82,7 @@ padding: 7% 15%;
     padding-right: 0px;
 }
 
-@media (max-width:500px){
+@media (max-width: 1030px){
 #title{
   text-align: center;
 }
